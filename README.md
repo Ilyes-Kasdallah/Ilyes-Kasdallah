@@ -15,7 +15,7 @@ var vitor_pecanha = new
     askMeAbout = new string[5] { "backend developer", "tech", "IT management", "boardgamer", "travel" },
     technologies = new
     {
-      languages = new string[4] { "C#", ".netFramework", ".net core", ".net 6" },
+      languages = new string[4] { "C++", "Python", "Java" },
       devOps = new string[4] { "AzureDevops", "CircleCI", "Docker", "Kubernetes" },
       databases = new string[2] { "MongoDB", "SqlServer" },
       qa = new string[5] { "TDD", "LoadTests", "StressTests", "Sonarqube", "JMeter" },
