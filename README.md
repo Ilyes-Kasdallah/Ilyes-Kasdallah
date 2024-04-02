@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilyes Kasdallah</h1>
-<h3 align="center">A passionate software engineer student from Tunisia</h3>
+<h3 align="center">A passionate software engineering student from Tunisia</h3>
 
 - 🔭 I’m currently working on [Implementing CI/CD Pipelines for MicroservicesBased Application and Azure Deployment](https://github.com/Ilyes-Kasdallah/microservice-new)
 
