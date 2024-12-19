@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyes Kasdallah</h1>
 <h3 align="center">A passionate software engineering student from Tunisia</h3>
 
-- 🔭 I’m currently working on [Implementing CI/CD Pipelines for MicroservicesBased Application and Azure Deployment](https://github.com/Ilyes-Kasdallah/microservice-new)
-
-- 🌱 I’m currently learning *<a href="https://www.udemy.com/course/java-test-automation-engineer-from-zero-to-hero/learn/lecture/30378350#overview">*Java Test Automation Engineer - from Zero to Hero**</a>
 
 - 📫 How to reach me **ilyes.kasdallah@supcom.tn**
 
