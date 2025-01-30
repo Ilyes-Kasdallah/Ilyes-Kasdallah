@@ -31,8 +31,8 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook"  /></a>     
    
    
-   <a href="https://aakashrajbanshi58@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"  /></a>
+   <a href="https://ilyes.kasdallah@supcom.tn" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" height="40" alt="outlook"  /></a>
   
 
 </div>
@@ -41,7 +41,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,docker,kubernetes,springboot,postman,angular,aws,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,docker,kubernetes,postman,angular,aws,figma,vscode,git,github,gitlab,jenkins,argocd,terraform,windows,linux,ubuntu&theme=dark" />
 <!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
