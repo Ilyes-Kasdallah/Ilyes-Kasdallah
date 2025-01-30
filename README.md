@@ -11,7 +11,7 @@
 
 
 ## 💫 About Me:
-- 🔭 I’m currently a **Software Engineer Student.**
+- 🔭 I’m currently a **Software Engineering Student.**
 - 🌱 I’m currently learning **Terraform and Ansible.**
 - 💬 Ask me about **Cloud and DevOps Stuff.**
 - 📫 How to reach me **Check my Social links below.**
@@ -32,7 +32,7 @@
    
    
    <a href="https://ilyes.kasdallah@supcom.tn" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/outlook/default.svg" width="52" height="40" alt="outlook"  /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="outlook"  /></a>
   
 
 </div>
@@ -41,7 +41,7 @@
 ## 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,docker,kubernetes,postman,angular,aws,figma,vscode,git,github,gitlab,jenkins,argocd,terraform,windows,linux,ubuntu&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,docker,kubernetes,postman,angular,aws,figma,vscode,git,github,gitlab,jenkins,argocd,terraform,mysql,windows,linux,ubuntu&theme=dark" />
 <!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
   </a> 
 </div> 
