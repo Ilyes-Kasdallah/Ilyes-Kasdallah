@@ -11,8 +11,8 @@
 
 
 ## 💫 About Me:
-- 🔭 I’m currently a **Software Engineering Student.**
-- 🌱 I’m currently learning **Terraform and Ansible.**
+- 🔭 I’m currently a **PhD Student in computer science**
+- 🌱 I’m currently learning **GenAI**
 - 💬 Ask me about **Cloud and DevOps Stuff.**
 - 📫 How to reach me **Check my Social links below.**
 - ⚡ Fun fact **Coding is fun!**
